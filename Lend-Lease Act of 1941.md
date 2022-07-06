@@ -1,0 +1,1 @@
+**Passed on March 11, 1941, this act set up a system that would allow the United States to lend or lease war supplies to any nation deemed "vital to the defense of the United States."**

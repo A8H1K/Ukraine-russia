@@ -1,0 +1,3 @@
+# Maidan Revolution
+
+The Revolution of Dignity, also known as the Euro-Maidan Revolution, took place in Ukraine in February 2014 at the end of the Euromaidan protests, when deadly clashes between protesters and the security forces in the Ukrainian capital [Kyiv](https://en.wikipedia.org/wiki/Kyiv "Kyiv") culminated in the ousting of elected [President] Viktor Yanukovych and the [[overthrow of the Ukrainian government]].

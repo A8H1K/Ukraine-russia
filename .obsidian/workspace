@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "d0240d8d55b8258f",
+    "type": "split",
+    "children": [
+      {
+        "id": "101dbd4d9bb720ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Speaches/Intro.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d654c8ab1bf17ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fc6f4fa22cff90e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f51fc174b564a6fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7f42fbd5cb4db76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Eco",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54d1dd7fc5aff9e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e5d77729131583c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9751108a6427966a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Speaches/Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62dad73cf9321047",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "101dbd4d9bb720ce",
+  "lastOpenFiles": [
+    "Speaches/Intro.md",
+    "Dirt on major countries/USA.md",
+    "China/China's Growing Economic Presence in Ukraine and Belarus.md",
+    "China/Chinese stance on the ukraine russia conflict.md",
+    "Speaches/Sanctions.md",
+    "References.md",
+    "China/China’s Dilemma in the Ukraine Crisis.pdf",
+    "China/China.md",
+    "_123492192_ukraine_russian_control_areas_map_03_02_x2640-nc.png",
+    "Basic overview.md"
+  ]
+}
