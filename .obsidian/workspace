@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "101dbd4d9bb720ce",
+        "id": "290e07e0bccaaa01",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Working paper.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Eco",
+                "query": "tag:#Moving",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,23 +86,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "101dbd4d9bb720ce",
+  "active": "290e07e0bccaaa01",
   "lastOpenFiles": [
-    "Working paper.md",
-    "Speaches/Nuclear threats.md",
-    "Speaches/Sanctions.md",
-    "Common questions.md",
-    "Speaches/Moderated caucuses/Untitled.md",
-    "Speaches/GSL.md",
-    "Dirt on major countries/USA.md",
-    "China/China's Growing Economic Presence in Ukraine and Belarus.md",
-    "China/Chinese stance on the ukraine russia conflict.md",
-    "References.md"
+    "Speaches/Moderated caucuses/Refugee crisis.md",
+    "Pdfs/2022_Ukrainian_refugee_crisis.pdf",
+    "Pdfs/China's Dilemma in the ukraine crisis.pdf",
+    "Pdfs/China's shadow foreign policy.pdf",
+    "Pdfs/Holdings of US Securities 2012.pdf",
+    "Pdfs/Ukraine-and-Russia-E-IR-2016.pdf",
+    "Pdfs/Situation Ukraine Refugee Situation.pdf",
+    "Pdfs/China’s Strategic Calculations in the Russia-Ukraine War - Reader Mode_files/kennan-institute-white.svg",
+    "Pdfs/China’s Strategic Calculations in the Russia-Ukraine War - Reader Mode_files/kennan-institute.svg",
+    "Pdfs/China’s Strategic Calculations in the Russia-Ukraine War - Reader Mode_files/iliya.jpg"
   ]
 }
