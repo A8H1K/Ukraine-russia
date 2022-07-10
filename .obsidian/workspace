@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Speaches/Intro.md",
+            "file": "Working paper.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speaches/Intro.md",
+                "file": "Working paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,20 +96,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "101dbd4d9bb720ce",
   "lastOpenFiles": [
-    "Speaches/Intro.md",
+    "Working paper.md",
+    "Speaches/Nuclear threats.md",
+    "Speaches/Sanctions.md",
+    "Common questions.md",
+    "Speaches/Moderated caucuses/Untitled.md",
+    "Speaches/GSL.md",
     "Dirt on major countries/USA.md",
     "China/China's Growing Economic Presence in Ukraine and Belarus.md",
     "China/Chinese stance on the ukraine russia conflict.md",
-    "Speaches/Sanctions.md",
-    "References.md",
-    "China/China’s Dilemma in the Ukraine Crisis.pdf",
-    "China/China.md",
-    "_123492192_ukraine_russian_control_areas_map_03_02_x2640-nc.png",
-    "Basic overview.md"
+    "References.md"
   ]
 }
