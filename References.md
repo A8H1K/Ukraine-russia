@@ -19,3 +19,7 @@ https://www.semanticscholar.org/paper/China's-Growing-Economic-Presence-in-Ukrai
 https://www.semanticscholar.org/paper/The-Chinese-People’s-Republic-Investment-Engagement-Rutkowska-Adamczyk/44fdf069be3a37a0f40c5a96bdbfa845572f50fa
 https://www.semanticscholar.org/paper/China’s-Holdings-of-U.S.-Securities%3A-Implications-Morrison-Labonte/38551d195c7df3347f608df49b3f2374892d95ad
 https://www.upi.com/Business_News/2010/03/25/Belarus-China-sign-34B-in-contracts/67861269529268/
+
+https://www.aljazeera.com/news/2022/2/15/explainer-nato-and-the-ukraine-russia-crisis
+
+---

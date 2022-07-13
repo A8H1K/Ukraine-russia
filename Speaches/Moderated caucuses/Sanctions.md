@@ -1,3 +1,4 @@
+#mod #Eco 
 Economic sanctions Hurt not only a specific country but the global economy at large. They might lead to failures and unattanded consequences. Especially if applied against a global superpower and a large scale exporter of goods like Russia. The delegate believes that the sanctions against Russia are cretinous. For removal of 2.2 million barrels of oil a day from the international markets has made oil prices rise all over the world. This has led to inflation due to the interdependence of different sectors on each other.  
 even on Global equity prices fell sharply, especially prices on European exchanges. Bond yields in the United States and Europe fell, safe currencies rose in value}
 - https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/06/fact-sheet-united-states-g7-and-eu-impose-severe-and-immediate-costs-on-russia/

@@ -5,6 +5,9 @@ What NATO will do?
 - Military base formation is not allowed in NATO countries 
 - NATO's military command structure to be dissolved 
 - Laws will be made to protect russian speakers in Ukraine
+- Recognize the liberation of Crimea
+- Independance in the Donbass region
+- Ukraine won't join NATO
 
 Russia will return by:-
 - Pulling their forces out of ukraine.

@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "290e07e0bccaaa01",
+        "id": "4f779d5514958781",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "China/Strategy.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "China/Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,19 +97,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "290e07e0bccaaa01",
+  "active": "4f779d5514958781",
   "lastOpenFiles": [
+    "Speaches/Moderated caucuses/Sanctions.md",
+    "Speaches/Moderated caucuses/Nuclear threats.md",
     "Speaches/Moderated caucuses/Refugee crisis.md",
-    "Pdfs/2022_Ukrainian_refugee_crisis.pdf",
-    "Pdfs/China's Dilemma in the ukraine crisis.pdf",
-    "Pdfs/China's shadow foreign policy.pdf",
-    "Pdfs/Holdings of US Securities 2012.pdf",
-    "Pdfs/Ukraine-and-Russia-E-IR-2016.pdf",
-    "Pdfs/Situation Ukraine Refugee Situation.pdf",
-    "Pdfs/China’s Strategic Calculations in the Russia-Ukraine War - Reader Mode_files/kennan-institute-white.svg",
-    "Pdfs/China’s Strategic Calculations in the Russia-Ukraine War - Reader Mode_files/kennan-institute.svg",
-    "Pdfs/China’s Strategic Calculations in the Russia-Ukraine War - Reader Mode_files/iliya.jpg"
+    "China/Strategy.md",
+    "China/Taiwan.md",
+    "China/What is china doing.md",
+    "China/chinese-foreign-relations-law.pdf",
+    "China/Foreign_relations_of_China.pdf",
+    "Working paper.md",
+    "Basic overview.md"
   ]
 }
