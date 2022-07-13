@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4f779d5514958781",
+        "id": "5b0d6bc48da64dcd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "China/Strategy.md",
+            "file": "China/Taiwan.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "China/Strategy.md",
+                "file": "China/Taiwan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f779d5514958781",
+  "active": "5b0d6bc48da64dcd",
   "lastOpenFiles": [
+    "Speaches/Alternate GSL.md",
+    "China/Strategy.md",
+    "Speaches/GSL.md",
     "Speaches/Moderated caucuses/Sanctions.md",
     "Speaches/Moderated caucuses/Nuclear threats.md",
     "Speaches/Moderated caucuses/Refugee crisis.md",
-    "China/Strategy.md",
     "China/Taiwan.md",
     "China/What is china doing.md",
     "China/chinese-foreign-relations-law.pdf",
-    "China/Foreign_relations_of_China.pdf",
-    "Working paper.md",
-    "Basic overview.md"
+    "China/Foreign_relations_of_China.pdf"
   ]
 }

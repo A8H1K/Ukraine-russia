@@ -1,0 +1,5 @@
+CHINA WILL NOT TOLERATE UNDERMINING THE SECURITY INTERESTS OF ANY OTHER COUNTRY. and Russia has full support of China on its core interests in this conflicts like security. If a mutual agreement is not taken, taking into consideration points from both sides this Conflict will likely drag on. The delegate believes that the sanctions against Russia are cretinous at best, this has made oil prices rise all over the world, even on Global equity prices fell sharply, especially prices on European exchanges. The delegate would also like to bring to light how Russia is nowhere near as isolated as western media seems to believe
+
+The delegate would also like countries to stop with threats of economic sanctions on China as well
+
+We are an Impartial, neutral and objective participant, which we believe is the only effective path to a peaceful solution. Any country supporting the same is welcome to be an Ally of China and help end this conflict. Thank You
